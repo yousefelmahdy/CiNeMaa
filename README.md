@@ -6,7 +6,7 @@ Cinema is a Backend project that support a lot of features, with diffenent genre
 
 CiNeMaa requires [Node.js/Express]
 
-Install the dependencies and devDependencies like:
+#### Install the dependencies and devDependencies like:
 
 ```
 npm init --yes
