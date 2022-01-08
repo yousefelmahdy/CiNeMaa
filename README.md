@@ -9,9 +9,6 @@ CiNeMaa requires [Node.js/Express]
 #### Install the dependencies and devDependencies like:
 
 ```
-npm init --yes
-```
-```
 npm i express
 ```
 
